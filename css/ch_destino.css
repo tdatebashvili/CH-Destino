@@ -1,0 +1,9 @@
+input[type="submit"] {
+    width: 100px;
+    border: 2px solid #25e8b7;
+    padding: 10px;
+    font-size: 14px;
+    color: black;
+    text-align: center;
+    text-decoration-color: white;
+}
