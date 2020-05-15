@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: CH-Destino
-Description: Este plugin contarÃ¡ el total de la horas dedicadas a una tarea
+Description: Este plugin contará el total de la horas dedicadas a una tarea
 Version: 1.0
 Author:Teymuraz Datebashvili
 License: GPL2
