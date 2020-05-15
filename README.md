@@ -2,8 +2,7 @@
 
 Version: 1.0
 Author: Teymuraz Datebashvili
-License: GPL2
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+[![GitHub](https://img.shields.io/github/license/tdatebashvili/ch-destino?label=License)](https://github.com/tdatebashvili/CH-Destino/blob/master/LICENSE)
 
 CH-Destino es un plugin de wordpress que sirve para contabilizar las horas destinadas  a una determinida tarea.
 
